@@ -1,0 +1,18 @@
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+}
+blockquote{
+    font: normal 20px italic;   
+}
+.video, .box{
+    margin: auto;
+    width: 640px;
+    height: 480px;
+    border-radius: 8px;
+}
+a, p{
+    margin: 20% 0px 0px 0px;
+    text-align: center;
+    font: normal 18px italic;
+    color: black;
+}

@@ -1,0 +1,12 @@
+h1, p{
+    text-align: center;
+}
+a{
+    color: black;
+}
+.box, .vid{
+    border-radius: 8px;
+    width: 640px;
+    height: 480px;
+    margin: auto;
+}
